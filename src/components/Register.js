@@ -67,6 +67,7 @@ const Register = () => {
           <input type="radio" name="isAccepted" id="tos-radio" /> I am agree
           with the
           <a href="/" style={{ textDecoration: "none", fontWeight: 700 }}>
+            {" "}
             Terms of Service
           </a>
           <br />
